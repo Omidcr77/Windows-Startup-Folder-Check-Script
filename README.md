@@ -72,14 +72,10 @@ You can easily modify the script to change the folder name, location, or wait ti
 - To change the folder name, modify the `set "folderPath=%USERPROFILE%\Desktop\imhere"` line.
 - To change the wait time, adjust the value in `timeout /t 20 /nobreak`.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contributing
 
 Feel free to submit pull requests if you have ideas for improvements or additional features!
 
 ## Contact
 
-If you encounter any issues or have any questions, please open an issue in this repository or reach out via [your-email@example.com](mailto:your-email@example.com).
+If you encounter any issues or have any questions, please open an issue in this repository or reach out via omid.root1@gmail.com
